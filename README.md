@@ -30,7 +30,7 @@ require('yourJSFile.js');
 
 You can assign this to a variable to use later
 
-## Instantation
+## Installing Express
 
 First install express with `npm install express --save` and require it
 
