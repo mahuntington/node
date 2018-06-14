@@ -48,7 +48,7 @@ Then make it listen on a port
 
 ```javascript
 app.listen(3000, function(){ //start the server
-	console.log('listening on port ' + PORT);
+	console.log('listening on port ' + 3000);
 });
 ```
 
